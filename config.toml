@@ -21,7 +21,7 @@ url = "https://github.com/rappet"
 
 [[menu.navbar]]
 name = "Contact"
-url = "//contact"
+url = "//contact/"
 
 
 # Theme variables
