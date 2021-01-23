@@ -1,5 +1,5 @@
 ---
-title: "Rust Api Structure"
+title: "Rust Api Structure (basically a draft)"
 date: 2021-01-23T22:21:22+01:00
 categories:
     - rust
@@ -10,8 +10,6 @@ tags:
     - openapi
     - swagger-ui
 ---
-
-**Unfinished!**
 
 In this blog post I will describe the state of the rust API ecosystem
 and give an introduction how to write testable production ready APIs.
