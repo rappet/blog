@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.rappet.de/"
 languageCode = "en-us"
 title = "Raphael' Blog"
 theme = "hugo-theme-bootstrap4-blog"
